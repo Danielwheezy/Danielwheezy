@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Danielwheezy
+- 👋 Hi,my name is @Danielwheezy, and i new in GitHub.
 - 👀 I’m interested in lear and create codes in HTML.
 - 🌱 I’m currently learning HTML.
-- 💞️ I’m looking to collaborate on everything i can help.
+- 👍 I’m looking to collaborate on everything i can help.
 <!--- 📫 How to reach me
 
 Danielwheezy/Danielwheezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
